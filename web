@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Italo Buonanno – Analista de Datos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #1a1a1a;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+      background-color: #fff;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    .contact {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.8rem;
+      background-color: #eee;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Italo Buonanno</h1>
+    <p>Ingeniero de Organización Industrial | Analista de Datos</p>
+    <p class="contact">
+      Barcelona, España · +34 639 061 405 · 
+      <a href="mailto:buonannoitalo@gmail.com" style="color: #ccc;">buonannoitalo@gmail.com</a><br>
+      <a href="https://buonannoitalo.carrd.co" style="color: #ccc;">buonannoitalo.carrd.co</a>
+    </p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Perfil Profesional</h2>
+      <p>Experiencia en análisis de negocios, optimización de procesos, definición de KPIs, procesos ETL y modelos estadísticos. Especializado en análisis de datos con manejo de Python, R, MySQL, MongoDB, PowerBI, Tableau y Excel. Formación en Ingeniería de Organización Industrial y Psicología Organizacional.</p>
+    </section>
+
+    <section>
+      <h2>Experiencia Profesional</h2>
+      <p><strong>Analista de Organización – Elektra Internacional S.A.</strong><br>
+      Diseño de estructura organizativa, manual de funciones y formación interna.</p>
+      <p><strong>Analista de Operaciones – Natali Industrias S.A.</strong><br>
+      Supervisión de operaciones industriales, estrategias de eficiencia operativa.</p>
+    </section>
+
+    <section>
+      <h2>Cursos y Certificaciones</h2>
+      <ul>
+        <li>Especialización en Análisis de Datos – IT Academy, Barcelona (2025)</li>
+        <li>MySQL Avanzado (20h) – IT Academy, Barcelona (mayo 2025)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Formación Académica</h2>
+      <ul>
+        <li>Grado en Ingeniería de Organización Industrial – Politécnico di Bari, Italia</li>
+        <li>Grado en Psicología – Universidad Nacional Yacambú, Venezuela</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Idiomas</h2>
+      <p>Español (nativo), Italiano (nativo), Inglés (fluido), Catalán (alta comprensión), Alemán y Chino (nivel inicial)</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Italo Buonanno · Todos los derechos reservados
+  </footer>
+</body>
+</html>
